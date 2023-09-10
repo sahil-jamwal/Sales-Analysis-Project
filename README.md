@@ -47,17 +47,13 @@ Our objectives for this project are as follows:
 
 Visual representations of our insights are provided to facilitate a clear understanding of the data. These visualizations are essential for identifying trends and making data-driven decisions.
 
-![Top 10 States by Total Orders](![image](https://github.com/sahil-jamwal/Sales-Analysis-Project/assets/120573909/eee88106-0dc6-412f-be74-ba5a475894c2)
-)
+![Top 10 States by Total Orders](https://github.com/sahil-jamwal/Sales-Analysis-Project/assets/120573909/eee88106-0dc6-412f-be74-ba5a475894c2)
 
-![Zonewise Total Orders](![image](https://github.com/sahil-jamwal/Sales-Analysis-Project/assets/120573909/8837442e-c395-4096-82fa-3f078edb6f52)
-)
+![Zonewise Total Orders](https://github.com/sahil-jamwal/Sales-Analysis-Project/assets/120573909/8837442e-c395-4096-82fa-3f078edb6f52)
 
-![Count of Each Occupation](![image](https://github.com/sahil-jamwal/Sales-Analysis-Project/assets/120573909/11bd5939-a589-4710-947a-ca7575b1ab7a)
-)
+![Count of Each Occupation](https://github.com/sahil-jamwal/Sales-Analysis-Project/assets/120573909/11bd5939-a589-4710-947a-ca7575b1ab7a)
 
-![Count of Each Product Category](![image](https://github.com/sahil-jamwal/Sales-Analysis-Project/assets/120573909/4ea98c31-cbbd-43f9-bb3d-ade0d29680b2)
-)
+![Count of Each Product Category](https://github.com/sahil-jamwal/Sales-Analysis-Project/assets/120573909/4ea98c31-cbbd-43f9-bb3d-ade0d29680b2)
 
 ## Conclusion
 
