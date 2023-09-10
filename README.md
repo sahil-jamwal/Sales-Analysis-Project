@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to **Sales Analysis Project**! This project aims to leverage data analytics to improve customer experience and increase revenue. We have conducted a comprehensive analysis of our sales dataset to derive actionable insights. Below, we present key findings and visualizations that will guide our decision-making process.
+Welcome to **Sales Analysis Project**! This project aims to leverage data analytics to improve customer experience and increase revenue. I have conducted a comprehensive analysis of this sales dataset to derive actionable insights. Below, I present key findings and visualizations that will guide our decision-making process.
 
 ## Problem Statement
 
